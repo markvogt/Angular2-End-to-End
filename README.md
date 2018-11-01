@@ -16,3 +16,5 @@ STARTED course...
 * COMMITTED changes thus far to local repo
 * PUSHED changes thus far to cloud repo
 
+* RE-MOVED all "lesson" folders BACK to desktop (NOT supposed to be in project yet !!! )
+
